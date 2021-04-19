@@ -1,5 +1,5 @@
 # SuperMarket-simulation
-This present my personal attempt on creating a supermarket simulation using java.
+This presents my personal attempt on creating a supermarket simulation using java.
 This program was implemented using Apache NetBeans IDE 12.1, an installation guide will be present in the appendix.
 
 
